@@ -2,7 +2,7 @@
 
 ## GOAL : To create a web application using Flask to generate recipe based on the ingredients given by the user using OPEN_AI_API.
 
-The code given was performed on Replit using GPT Turbo 3.5.
+### The code given was performed on Replit using GPT Turbo 3.5.
 
 ## OUTPUT :
 ![RecipeGen1](https://github.com/YashKTJadhav1999/Recipe-Generator-using-Open_API_Key-and-Flask/assets/44392676/560fa180-5925-4d42-a1a7-fc4406878d22)
